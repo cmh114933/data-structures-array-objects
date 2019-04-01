@@ -20,6 +20,8 @@
     const item2 = numArray[1]
 ```
 
++++
+
 ### Iterating through Arrays
 ```js
     const charsArray: string[] = ["a","b","c","d"]
