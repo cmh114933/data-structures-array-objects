@@ -66,7 +66,7 @@
 ## For Loops
 ```js
     const charsArray: string[] = ["a","b","c","d"]
-    for(let i; i < charsArray.length; i ++){
+    for(let i = 0; i < charsArray.length; i ++){
         console.log(charsArray[i])
     }
 ```
